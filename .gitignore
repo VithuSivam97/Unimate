@@ -1,0 +1,19 @@
+# Environments
+venv/
+venv_working/
+
+# Logs and databases
+*.log
+*.txt
+vector_store/
+vector_store_clean/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+
+# Env
+.env
